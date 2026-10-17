@@ -1,45 +1,38 @@
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+
+# MrDear
+
+Building developer tools, automations, and practical AI workflows.
+
+[Website](https://mrdear.cn/) · [GitHub](https://github.com/mrdear)
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
-<br/>
-
-<details>
-<summary><strong>More about me</strong></summary>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/pouyashahrdami/github-pulse">
+    <img src="https://github-pulse-topaz.vercel.app/u/mrdear?theme=aura&amp;size=monitor&amp;tz=8" width="830" alt="MrDear's GitHub Pulse — live activity monitor" />
+  </a>
+</p>
 
 I build practical tools for everyday engineering productivity.
 Focused on developer experience, workflow automation, and AI-assisted coding.
 
-**Currently at** Ant Financial — Hangzhou, China
-</details>
+**Ant Financial** · Hangzhou, China
 
-<br/>
+### Focus
 
-<div align="center">
-  <a href="https://mrdear.cn/">
-    <img src="https://img.shields.io/badge/-Website-080c14?style=for-the-badge&logo=google-chrome&logoColor=00d4ff" alt="Website"/>
-  </a>
-  <a href="https://github.com/mrdear">
-    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub"/>
-  </a>
-</div>
+| Backend engineering | Developer tools | AI & automation |
+| --- | --- | --- |
+| Java · Spring · Reactor | IntelliJ Plugin · Raycast · CLI | Cloudflare AI Gateway · MCP · Python |
+
+### Selected projects
+
+| Project | What it does |
+| --- | --- |
+| [cloudflare-ai-proxy](https://github.com/mrdear/cloudflare-ai-proxy) | Proxy OpenAI/Claude style requests with Cloudflare AI Gateway. |
+| [IntelliJ-SetterHelper](https://github.com/mrdear/IntelliJ-SetterHelper) | An IntelliJ IDEA plugin to speed up repetitive setter-based coding tasks. |
+| [time-convert-raycast-plugin](https://github.com/mrdear/time-convert-raycast-plugin) | A Raycast extension for fast date/time conversion in daily workflows. |
+| [reactor-flow](https://github.com/mrdear/reactor-flow) | Examples and notes for building reactive processing pipelines with Reactor. |
+| [easy-excel](https://github.com/mrdear/easy-excel) | A utility library for Excel read/export workflows in Java projects. |
+
+<p align="center"><sub>Ship useful things, then iterate fast.</sub></p>
